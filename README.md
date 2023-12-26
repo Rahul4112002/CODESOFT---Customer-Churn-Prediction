@@ -1,3 +1,6 @@
+
+
+https://github.com/Rahul4112002/CODESOFT---Customer-Churn-Prediction/assets/124488758/a89db6b1-a8bf-4011-a004-2b3e5b49b45b
 Customer Churn Prediction
 
 ## Overview
@@ -58,3 +61,24 @@ Contributions to improve the project are welcome! Here's how you can contribute:
 - Create a pull request
 
 Feel free to modify this README file to include more specific instructions, additional details about the model, or any other relevant information about your project. Good luck with your project!
+
+### Model Screenshots
+
+I've included screenshots from my Jupyter Notebook to showcase various aspects of the model's performance and insights.
+![2](https://github.com/Rahul4112002/CODESOFT---Customer-Churn-Prediction/assets/124488758/92c5f04a-d205-4cb8-8139-f4496468a606)
+
+
+#### Feature Importance
+![1 1](https://github.com/Rahul4112002/CODESOFT---Customer-Churn-Prediction/assets/124488758/17a18ffe-db48-44ed-83f3-3432b2ace379)
+![1 2](https://github.com/Rahul4112002/CODESOFT---Customer-Churn-Prediction/assets/124488758/94777302-fbfd-4c58-8b39-4dc358cbf3e4)
+![1 3](https://github.com/Rahul4112002/CODESOFT---Customer-Churn-Prediction/assets/124488758/dd558bef-8c3a-45a4-8575-5424f1d546f8)
+
+This screenshot demonstrates the feature importance plot generated from the Random Forest model, highlighting the key factors influencing customer churn prediction.
+![3 2](https://github.com/Rahul4112002/CODESOFT---Customer-Churn-Prediction/assets/124488758/6bfc08c1-9a44-411c-9a0f-26ead5fd82cc)
+![3 1](https://github.com/Rahul4112002/CODESOFT---Customer-Churn-Prediction/assets/124488758/990f0c0b-955b-40b1-8fc0-fef9e684a5db)
+
+#### Model Evaluation Metrics
+
+Here's a snapshot showcasing the evaluation metrics such as accuracy of the trained model on the test dataset.
+![3](https://github.com/Rahul4112002/CODESOFT---Customer-Churn-Prediction/assets/124488758/052c0cb1-e2cc-4638-9016-5b9b25eed276)
+
