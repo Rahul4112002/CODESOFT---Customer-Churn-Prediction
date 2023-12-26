@@ -5,6 +5,5 @@ scikit-learn
 gunicorn
 jsonify
 requests
-pickle
 matplotlib
 StandardScaler
