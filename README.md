@@ -17,7 +17,7 @@ Machine learning project aimed at predicting customer churn in a bank using the 
 To use this project locally, follow these steps:
 1. Clone the repository:
    ```
-   git clone https://github.com/Rahul4112002/CODESOFT---Customer-Churn-Prediction.git
+   git clone https://github.com/Rahul4112002/CODSOFT---Customer-Churn-Prediction.git
    ```
 2. Install dependencies:
    ```
